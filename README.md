@@ -13,8 +13,9 @@ You can find me 🌎
 - [Twitter](https://twitter.com/Galeano019)
 - [Linkedin](https://www.linkedin.com/in/gustavo-galeano/)
 
-![Gustavo-Galeano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Galeano&show_icons=true&theme=radical)
+![Gustavo-Galeano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Galeano&show_icons=true)
 
+<!-- ![Gustavo-Galeano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Galeano&show_icons=true&theme=radical)--!>
 <!--
 **Gustavo-Galeano/Gustavo-Galeano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
