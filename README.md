@@ -18,12 +18,13 @@ const Gustavo-Galeano = {
 
 
 ### You can find me 🌎
+<p>
 <a href="https://twitter.com/Galeano019"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Gustavo%20Galeano-blue?style=flat-square&logo=Twitter"></a>
 
 <a href="https://www.instagram.com/gustavo_paredes02"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Gustavo%20Galeano-blue?style=flat-square&logo=Instagram"></a>
 
 <a href="https://www.linkedin.com/in/gustavo-galeano/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gustavo%30Galeano-blue?style=flat-square&logo=linkedin"></a>
-
+</p>
 
 
 ![Gustavo-Galeano GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Galeano&show_icons=true)
