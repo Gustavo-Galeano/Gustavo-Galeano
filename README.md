@@ -1,9 +1,4 @@
-### Hi, I'am Gustavo  👋 🧑‍💻
-
-<a href="https://twitter.com/Galeano019">
-  <img align="right" alt="Gustavo Galeano | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-
+<h3 align="center">Hi, I'am Gustavo 👋 🧑‍💻</h3>
 ## About me in code
 
 ```js
@@ -19,7 +14,13 @@ const Gustavo-Galeano = {
 - [Twitter](https://twitter.com/Galeano019)
 - [Linkedin](https://www.linkedin.com/in/gustavo-galeano/)
 
+
+<a href="https://twitter.com/Galeano019">
+  <img align="right" alt="Gustavo Galeano | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+
 ![Gustavo-Galeano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Galeano&show_icons=true)
+
 
 <!-- ![Gustavo-Galeano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Galeano&show_icons=true&theme=radical)--!>
 <!--
