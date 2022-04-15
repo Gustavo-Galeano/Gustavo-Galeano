@@ -3,6 +3,7 @@
 ### About me in code
 🎓 I am a student of a technical career in system development. </br>
 ✍️ Self-taught in hybrid application development and web development.
+<!--
 ```js
 const Gustavo-Galeano = {
   passions: {'web development'},
@@ -10,8 +11,7 @@ const Gustavo-Galeano = {
   tools: [Node],
  challenge: "I am doing the #100DaysOfCode challenge focused on javascrpt"
 }
-
-```
+``` -->
 
 ### Skills
 [![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
