@@ -2,19 +2,19 @@
 
 ```js
 const Gustavo-Galeano = {
-  pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Java],
+  passions: {'web development'},
+  code: [HTML, CSS, Javascript, Java],
   tools: [Node],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on javascrpt"
 }
 ```
+You can find me 🌎
+- [Instagram] (https://www.instagram.com/gustavo_paredes02/)
+- [Linkedin]
+- [Twitter]
 <!--
 **Gustavo-Galeano/Gustavo-Galeano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
