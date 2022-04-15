@@ -4,6 +4,8 @@
   <img align="right" alt="Gustavo Galeano | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
+## About me in code
+
 ```js
 const Gustavo-Galeano = {
   passions: {'web development'},
@@ -12,7 +14,7 @@ const Gustavo-Galeano = {
  challenge: "I am doing the #100DaysOfCode challenge focused on javascrpt"
 }
 ```
-You can find me 🌎
+## You can find me 🌎
 - [Instagram](https://www.instagram.com/gustavo_paredes02)
 - [Twitter](https://twitter.com/Galeano019)
 - [Linkedin](https://www.linkedin.com/in/gustavo-galeano/)
