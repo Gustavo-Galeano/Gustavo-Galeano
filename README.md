@@ -9,9 +9,12 @@ const Gustavo-Galeano = {
 }
 ```
 You can find me 🌎
-- [Instagram] (https://www.instagram.com/gustavo_paredes02/)
-- [Linkedin]
-- [Twitter]
+- [Instagram](https://www.instagram.com/gustavo_paredes02)
+- [Twitter](https://twitter.com/Galeano019)
+- [Linkedin](https://www.linkedin.com/in/gustavo-galeano/)
+
+[![Gustavo-Glaeano github stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Galeano)](https://github.com/anuragharzra/github-readme-stats) 
+
 <!--
 **Gustavo-Galeano/Gustavo-Galeano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
