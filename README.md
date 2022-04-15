@@ -1,4 +1,4 @@
-### Hi 👋, I'am Gustavo 👨‍💻
+<!-- ### Hi 👋, I'am Gustavo 👨‍💻 -->
 
 ### About me
 🎓 I am a student of a technical career in system development. </br>
