@@ -1,5 +1,9 @@
 ### Hi, I'am Gustavo  👋 🧑‍💻
 
+<a href="https://twitter.com/Galeano019">
+  <img align="right" alt="Gustavo Galeano | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+
 ```js
 const Gustavo-Galeano = {
   passions: {'web development'},
