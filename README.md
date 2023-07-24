@@ -22,6 +22,6 @@ Hello everyone, I am Gustavo graduated from a career Technician in IT. I am a pe
 ![](https://github-contributor-stats.vercel.app/api?username=Gustavo-Galeano&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gustavo-Galeano&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Gustavo-Galeano&icon=0&color=0)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
