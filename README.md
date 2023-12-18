@@ -18,7 +18,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=101010)]()
 
-### Puedes encontrarme 🌎
+### Encuéntrame 🌎
 
 <p>
 <a href="https://www.linkedin.com/in/gustavo-galeano/">
