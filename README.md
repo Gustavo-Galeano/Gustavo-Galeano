@@ -1,4 +1,4 @@
-### Hola 👋, soy Gustavo 👨‍💻 
+<!-- ### Hola 👋, soy Gustavo 👨‍💻 -->
 
 ### Acerca de mí
 
