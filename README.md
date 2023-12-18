@@ -32,7 +32,7 @@
 </a>
 </p>
 
-### Estadísticas de GitHub
+### GitHub Stats
 
-![Gustavo-Galeano GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Galeano&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Galeano&theme=dark&layout=compact)
 
