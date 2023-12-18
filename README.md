@@ -1,11 +1,11 @@
-### Hi 👋, I'am Gustavo 👨‍💻 
+### Hola 👋, soy Gustavo 👨‍💻 
 
-### About me
+### Acerca de mí
 
-🎓 I am a student of a technical career in system development. </br>
-✍️ Self-taught in hybrid application development and web development.
+🎓 EXA - Centro Tecnológico de Avanzada Paraguay Corea. </br>
+✍️ Autodidacta en el desarrollo web y entuciasta del desarrollo mobil con Flutter.
 
-### Skills
+### Habilidades
 
 [![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
@@ -18,7 +18,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=101010)]()
 
-### You can find me 🌎
+### Puedes encontrarme 🌎
 
 <p>
 <a href="https://www.linkedin.com/in/gustavo-galeano/">
@@ -32,7 +32,7 @@
 </a>
 </p>
 
-### GitHub Stats
+### Estadísticas de GitHub
 
 ![Gustavo-Galeano GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Galeano&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
