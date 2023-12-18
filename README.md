@@ -1,11 +1,9 @@
-<!-- ### Hola 👋, soy Gustavo 👨‍💻 -->
+### About me
 
-### Acerca de mí
+🎓 I studied at the Centro Tecnológico de Avanzada Paraguay Korea. </br>
+✍️ I am a self-taught individual in web development and an enthusiast of mobile development with Flutter.
 
-🎓 EXA - Centro Tecnológico de Avanzada Paraguay Corea. </br>
-✍️ Soy autodidacta en el desarrollo web y entusiasta del desarrollo móvil con Flutter.
-
-### Habilidades
+### Skills
 
 [![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
@@ -18,7 +16,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=101010)]()
 
-### Encuéntrame 🌎
+### You can find me 🌎
 
 <p>
 <a href="https://www.linkedin.com/in/gustavo-galeano/">
