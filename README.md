@@ -3,7 +3,7 @@
 ### Acerca de mí
 
 🎓 EXA - Centro Tecnológico de Avanzada Paraguay Corea. </br>
-✍️ Autodidacta en el desarrollo web y entuciasta del desarrollo mobil con Flutter.
+✍️ Soy autodidacta en el desarrollo web y entusiasta del desarrollo móvil con Flutter.
 
 ### Habilidades
 
